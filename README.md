@@ -59,3 +59,4 @@ MERN Messenger is a chat application built using the MERN stack (MongoDB, Expres
 3. Run `npm install --legacy-peer-deps` to install the frontend dependencies.
 4. Go back to the root directory using `cd ..`
 5. Start the application with `npm run start`
+6. Ensure you update the existing `.env` file with your MongoDB
